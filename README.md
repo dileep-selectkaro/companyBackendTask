@@ -1,6 +1,7 @@
 =====How to run in Local system===
 
 git clone: https://github.com/dileep-selectkaro/companyBackendTask.git
+git checkout master
 git pull (feched updated code)
 npm install
 npm start
